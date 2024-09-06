@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-rr-dom-v6",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "react-router-dom"
+  ],
+  "description": "The React application template consisting routing configuration based on react-router-dom@V6",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshutoshMishra22/cra-template-react-router.git",
+    "directory": "/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/AshutoshMishra22/cra-template-react-router/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
